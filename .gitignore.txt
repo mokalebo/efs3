@@ -1,0 +1,8 @@
+*.pycdb.sqlite3
+database.sqlitemyvenvvenv__pycache__local_settings.py*.pyc
+*~
+__pycache__
+venv
+db.SQLITE3
+/static
+.DS_Store
